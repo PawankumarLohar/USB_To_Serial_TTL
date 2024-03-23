@@ -1,0 +1,9 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "CP2102N-A02-GQFN20R")(type "KiCad")(uri "G:/Github_Project/USB_To_TTL/CP2102N-A02-GQFN20R/CP2102N-A02-GQFN20R.kicad_sym")(options "")(descr ""))
+  (lib (name "SMBJ10A")(type "KiCad")(uri "G:/Github_Project/USB_To_TTL/SMBJ10A/SMBJ10A.kicad_sym")(options "")(descr ""))
+  (lib (name "USB4105GFA120")(type "KiCad")(uri "G:/Github_Project/USB_To_TTL/USB4105GFA120/USB4105GFA120.kicad_sym")(options "")(descr ""))
+  (lib (name "LED-SMD-RED-DIFFUSED_0603_")(type "KiCad")(uri "G:/Github_Project/USB_To_TTL/LED-SMD-RED-DIFFUSED_0603_/LED-SMD-RED-DIFFUSED_0603_.kicad_sym")(options "")(descr ""))
+  (lib (name "LED_5988A80107F")(type "KiCad")(uri "G:/Github_Project/USB_To_TTL/LED_5988A80107F/5988A80107F/KiCad/LED_5988A80107F.kicad_sym")(options "")(descr ""))
+  (lib (name "61201021721")(type "KiCad")(uri "G:/Github_Project/USB_To_TTL/LIB_61201021721/61201021721.kicad_sym")(options "")(descr ""))
+)
